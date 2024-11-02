@@ -1,0 +1,19 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+#app {
+  max-width: 1160px;
+  margin: 0 auto;
+  line-height: 1.4;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+}
+
+.title {
+  font-size: 40px;
+}
